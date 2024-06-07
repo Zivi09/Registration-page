@@ -7,12 +7,19 @@ Features:
 OTP Login: Users log in using their mobile number and a password. An OTP is sent to the provided mobile number for verification.
 
 Responsive Form: 
-
 The registration form is designed to be responsive and user-friendly.
-Random Registration Number: Generates a random registration number for each submission.
-Percentage Calculation: Automatically calculates the percentage for 10th and 12th standard marks.
-Form Validation: Ensures all required fields are filled out correctly.
-PDF Generation: Generates a PDF document containing the user's input data, including formatted boxes for each field.
+
+Random Registration Number: 
+Generates a random registration number for each submission.
+
+Percentage Calculation: 
+Automatically calculates the percentage for 10th and 12th standard marks.
+
+Form Validation: 
+Ensures all required fields are filled out correctly.
+
+PDF Generation: 
+Generates a PDF document containing the user's input data, including formatted boxes for each field.
 
 Technologies Used:
 HTML5: For structuring the form and pages.
@@ -20,9 +27,9 @@ CSS3: For styling the form and layout, ensuring a responsive design.
 JavaScript: For form validation, OTP verification, PDF generation, and dynamic content manipulation.
 Firebase: Used for OTP authentication.
 jsPDF Library: For generating PDF documents.
+
 Setup and Usage:
 Clone the Repository:
-
 git clone https://github.com/yourusername/student-registration-otp.git
 cd student-registration-otp
 
@@ -30,17 +37,18 @@ Open the Project:
 Open the index.html file in a web browser.
 
 OTP Login:
-
 Enter your mobile number and click "Send OTP."
 Enter the received OTP to verify your number.
-Fill the Registration Form:
 
+Fill the Registration Form:
 Enter the required details in the form.
 Click the "Submit" button to register.
 Optionally, click the "Generate PDF" button to save your registration details as a PDF document.
 
 Collaborators:
+
 trenise25 
+
 profile :- https://github.com/trenise25
 
 License:
