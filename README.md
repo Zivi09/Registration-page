@@ -1,13 +1,19 @@
 Student Registration Form with OTP Login and PDF Generation
 This project is a dynamic web application for student registration. It includes a two-step verification process using OTP (One-Time Password) sent to the user's mobile number. Upon successful OTP verification, users can fill out the registration form, which can then be saved as a PDF document.
 
+
 Features:
+
 OTP Login: Users log in using their mobile number and a password. An OTP is sent to the provided mobile number for verification.
-Responsive Form: The registration form is designed to be responsive and user-friendly.
+
+Responsive Form: 
+
+The registration form is designed to be responsive and user-friendly.
 Random Registration Number: Generates a random registration number for each submission.
 Percentage Calculation: Automatically calculates the percentage for 10th and 12th standard marks.
 Form Validation: Ensures all required fields are filled out correctly.
 PDF Generation: Generates a PDF document containing the user's input data, including formatted boxes for each field.
+
 Technologies Used:
 HTML5: For structuring the form and pages.
 CSS3: For styling the form and layout, ensuring a responsive design.
