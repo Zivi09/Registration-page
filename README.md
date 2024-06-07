@@ -17,10 +17,9 @@ jsPDF Library: For generating PDF documents.
 Setup and Usage:
 Clone the Repository:
 
-sh
-Copy code
 git clone https://github.com/yourusername/student-registration-otp.git
 cd student-registration-otp
+
 Open the Project:
 Open the index.html file in a web browser.
 
@@ -33,8 +32,11 @@ Fill the Registration Form:
 Enter the required details in the form.
 Click the "Submit" button to register.
 Optionally, click the "Generate PDF" button to save your registration details as a PDF document.
+
 Collaborators:
-Trenise_25: GitHub Profile
+trenise25 
+profile :- https://github.com/trenise25
+
 License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
